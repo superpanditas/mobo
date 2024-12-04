@@ -7,3 +7,4 @@ Este repositorio contiene mi solución al caso práctico de ciencia de datos, de
 ## Tabla de Contenidos 
 - [DATASET](./dataset_ventas-2.csv)
 - [Notebook Clusterization](./MOBO_Data_Science_Case_EDA.ipnb)
+- [Notebook Forecast](./MOBO_Forecast.ipnb)
