@@ -2,8 +2,7 @@
 
 Hola, soy Waldo.
 
-El presente repo es dedicado a mi solución de Data Science Case como parte de mi proceso para una
-posición como Data Science en MOBO.
+Este repositorio contiene mi solución al caso práctico de ciencia de datos, desarrollado como parte de mi proceso de selección para una posición de Data Scientist en MOBO.
 
 ## Tabla de Contenidos 
 - [DATASET](./dataset_ventas-2.csv)
